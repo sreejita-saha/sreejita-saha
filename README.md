@@ -8,6 +8,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 
+![Java](https://img.shields.io/badge/java-%23ff69b4.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreejita-saha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
