@@ -30,9 +30,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
           outputs: |
-            dist/github-snake.svg?color_snake=ff69b4&color_dots=ffd1dc,ffe4e1,ffc0cb,ffb6c1,f5e9ef
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=ff69b4&color_dots=ffd1dc,ffe4e1,ffc0cb,ffb6c1,f5e9ef
-            dist/ocean.gif?color_snake=ff69b4&color_dots=ffd1dc,ffe4e1,ffc0cb,ffb6c1,f5e9ef
+           dist/github-snake.svg
+           dist/github-snake-dark.svg?palette=github-dark
+           dist/ocean.gif?color_snake=darkblue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+
 
 
         env:
